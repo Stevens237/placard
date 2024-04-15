@@ -1,0 +1,72 @@
+[
+    
+    {
+        "model": "placard.Autorisations",
+        "fields": {
+            "display_name": "move-user",
+            "autorisations_identifier": "MOVE_USER"
+        }
+    },
+    {
+        "model": "placard.Autorisations",
+        "fields": {
+            "display_name": "retrieve User",
+            "autorisations_identifier": "RETRIEVE_USER"
+        }
+    },
+    {
+        "model": "placard.Autorisations",
+        "fields": {
+            "display_name": "Update User",
+            "autorisations_identifier": "UPDATE_USER"
+        }
+    },
+    {
+        "model": "placard.Autorisations",
+        "fields": {
+            "display_name": "Create User",
+            "autorisations_identifier": "CREATE_USER"
+        }
+    },
+    {
+        "model": "placard.Autorisations",
+        "fields": {
+            "display_name": "Delete User",
+            "autorisations_identifier": "DELETE_USER"
+        }
+    },
+    {
+        "model": "placard.Autorisations",
+        "fields": {
+            "display_name": "Manage User Roles",
+            "autorisations_identifier": "MANAGE_USER_ROLES"
+        }
+    },
+    {
+        "model": "placard.Autorisations",
+        "fields": {
+            "display_name": "View Audit Logs",
+            "autorisations_identifier": "VIEW_AUDIT_LOGS"
+        }
+    },
+    {
+        "model": "placard.Autorisations",
+        "fields": {
+            "display_name": "Modify System Settings",
+            "autorisations_identifier": "MODIFY_SYSTEM_SETTINGS"
+        }
+    },
+    {
+        "model": "placard.Autorisations",
+        "fields": {
+            "display_name": "Export Data",
+            "autorisations_identifier": "EXPORT_DATA"
+        }
+    }
+    
+    
+    
+
+
+
+]
